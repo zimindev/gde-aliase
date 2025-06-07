@@ -56,15 +56,3 @@ or
 ```bash
 source ~/.zshrc    # if you edited .zshrc
 ```
-
----
-
-### ✅ Step 6: Test the aliases
-
-Now try one of your new aliases:
-
-```bash
-gs      # should run: git status
-update  # should run: sudo pacman -Syu
-serve   # should start a PHP server on localhost
-```
